@@ -1,0 +1,191 @@
+# Git ignore is generated using ChatGPT
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+
+# Visual Studio
+.vscode/
+.vscode/*
+.vs/
+.vs/*
+*.swp
+*~
+.project
+.idea/
+.DS_Store
+.ReSharper
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NPM packages
+node_modules/
+
+# Yarn
+.yarn/
+.yarnrc.yml
+
+# Environment variable definition files
+.env
+
+# Local History for JetBrains IDEs
+.idea/.idea/
+
+# Logs
+logs/
+*.log
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of https://docs.nuget.org/consume/packages-folder
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+
+# LightSwitch generated files
+GeneratedArtifacts/
+_Pvt_Extensions/
+ModelManifest.xml
+*.lspkg
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NPM packages
+node_modules/
+
+# Yarn
+.yarn/
+.yarnrc.yml
+
+# JetBrains Rider
+.idea/
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/inspectionProfiles
+.idea/artifacts
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/webServers.xml
+.idea/codeStyles/
+.idea/assetWizard/
+.idea/php/
+.idea/assetWizard.xml
+.idea/php.xml
+.idea/jsLibraryMappings.xml
+.idea/jsLinters.xml
+.idea/vcs.xml
+.idea/spellchecker.xml
+.idea/checkstyle-idea.xml
+.idea/misc.xml
+.idea/sonarlint/
+.idea/detectNewProject.xml
+.idea/externalDependencies.xml
+.idea/gradle.xml
+.idea/gradle.buildOutputIndex.xml
+.idea/checkstyle-idea.xml
+.idea/dictionaries/
+.idea/uiDesigner.xml
+.idea/spellchecker.xml
+.idea/tasks.xml
+.idea/codeStyleSettings.xml
+.idea/editor.xml
+.idea/gradleSettings.xml
+.idea/codeStyleSettings.xml
+.idea/jsLibraryMappings.xml
+.idea/deployment.xml
+.idea/jsLibraryMappings.xml
+.idea/sonarlint/
+.idea/php.xml
+.idea/php/
+.idea/externalDependencies.xml
+.idea/php.xml
+.idea/inspectionProfiles/
+.idea/assetWizard/
+.idea/task/
+
+# Local History
+.idea/localHistory/
+
+# Gradle
+.gradle/
+
+# Gradle Wrapper
+.gradle-wrapper/
+**/gradle-wrapper.properties
+**/gradle-wrapper.jar
+
+# IntelliJ
+out/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+.idea/httpRequests/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Rider project files
+.idea/
+*.iml
+
+# Rider caches
+.idea/
+.idea/tasks.xml
+.idea/dictionaries
+
+# JetBrains
+.idea/
+*.iml
+
+# Local history directory
+.idea/localHistory
+
+# Rider's file-based caches
+.idea/
+
+# OSX system files
+.DS_Store
